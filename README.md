@@ -1,13 +1,4 @@
-<div align="center">
-  <img src="banner.svg" alt="Akshara Kanukuntla Profile Banner" width="100%" />
-</div>
-
-<br/>
-
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td valign="middle" width="100%">
-      <h1>Hi there, I'm Akshara Kanukuntla👋</h1>
+   <h1>Hi there, I'm Akshara Kanukuntla👋</h1>
       <h3>💻 Data Analyst | SQL | Python | Power BI | Excel</h3>
       <p>I'm a <b>Data Science graduate</b> and <b>Trainee Decision Scientist</b>,  passionate about turning Data into meaningful Insights and supporting Data-driven Buisness decisions. I enjoy working with data to uncover patterns, solve problems, and communicate insights clearly.</p>
     </td>
